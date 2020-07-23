@@ -1,8 +1,7 @@
-package pkg.java.basic;
 import java.util.Scanner;
 
-        public class Basics1 {
-            public static void main(String[] args){
+public class Basic {
+    public static void main(String[] args){
 
         System.out.println("Enter your user name : ");
         int var1 = 3;

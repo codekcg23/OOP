@@ -40,6 +40,15 @@ public class OOP {
         as.doThisDefault();
         // private method not allowed
 
+
+        //    Inheritance  ----- is A relationship  class2 is a class 1
+        Dog c2 = new Dog();
+        c2.num1=8;
+        c2.num2=9;
+        c2.doSub();
+        c2.doAddition();
+        // rectangle always a polygon
+        // triangle always a polygon
     }
 
 
